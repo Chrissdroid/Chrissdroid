@@ -22,7 +22,6 @@ Je m'appelle Alexis et je suis développeur web depuis deux ans (officieusement)
 
 ### toujours plus de stats
 
-[![Statistiques Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Astroalex&bg_color=90,45194A,643169,8070ED&title_color=F5A491&text_color=A094FD&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Statistiques Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Astroalex&bg_color=90,45194A,643169,8070ED&title_color=F5A491&text_color=A094FD&hide_border=true)
 
-[![Mes languages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissdroid&layout=compact&locale=fr&bg_color=90,8070ED,643169,45194A&title_color=F5A491&text_color=A094FD&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Mes languages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissdroid&layout=compact&locale=fr&bg_color=90,8070ED,643169,45194A&title_color=F5A491&text_color=A094FD&hide_border=true)
