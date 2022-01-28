@@ -1,27 +1,71 @@
-# Présentation
+# <div id="header" align="center">👋</div>
+## <div id="title" align="center">Moi c'est Astroalex, enchanté</div>
 
-Je m'appelle Alexis et je suis développeur web depuis deux ans (officieusement), je suis actuellement une formation pour obtenir le diplôme afin de me perfectionner dans la conception de site Web.
+<div id="badges" align="center">
+	<a href="https://github.com/Chrissdroid">
+		<img src="https://img.shields.io/github/followers/Chrissdroid?color=%23333&label=suivez-moi%20sur%20GitHub&logo=github&logoColor=white&style=for-the-badge" alt="Badge Github"/>
+	</a>
+	<a href="https://twitter.com/intent/user?screen_name=Astroalex404">
+		<img src="https://img.shields.io/twitter/follow/Astroalex404?color=%231DA1F2&label=Suivez-moi%20sur%20Twitter&logo=twitter&logoColor=white&style=for-the-badge" alt="Badge Twitter"/>
+	</a>
+</div>
 
-![Stats Github](https://github-readme-stats.vercel.app/api?username=Chrissdroid&show_icons=true&locale=fr&bg_color=0,45194A,643169,8070ED&icon_color=D67F6D&title_color=F5A491&text_color=A094FD&custom_title=Mes%20stats%20github&hide_border=true)
+-------------------------------------------------------
 
-## je travaille actuellement sur différent projets
+<div id="description" align="center">
+	<i>
+		Je m'appelle Alexis et je suis un développeur web passionné par le développement web et les nouvelles technos~
+	</i>
+</div>
 
-- [AstroLoggy](https://astrologgy.info/ "Lien vers le site") - Site personnel en collaboration avec un ami
+## <div id="projets" align="center">✨ Mes Projets en cours ✨</div>
 
-- [HexaRolls](https://hexarolls.com/ "Lien vers le site") - Un site de partage de RolePlay en ligne
-
-- [HexaDices](https://github.com/Chrissdroid "Lien inéxistant pour le moment") - Un outil pour faciliter la gestions des séances en RolePlay
-
-- [Cephalon Prometheus](https://github.com/Chrissdroid/Cephalon-Prometheus "Voir le repo git") - Bot discord pour mon clan Warframe
-
-- [Kawaii Potato](https://github.com/Chrissdroid/Kawaii-Potato "Voir le repo git") - Bot discord publique avec nombreuses features a venir
-
-- [blank_](https://github.com/Chrissdroid "Lien inéxistant pour le moment") - Projet a durée indéterminée comprenant plein de différents templates de pages web
+<div id="projects-list" align="center">
+	<div id="hexarolls">
+		<img alt="Logo d'HexaRolls" src="https://api.hexarolls.com/assets/9986dc13-4dca-4d1b-ac03-3e630a54acae?key=avatar-resume" width="auto" heigth="72">
+		<br/>
+		<h3><a href="https://hexarolls.com/">HexaRolls</a> - <small>Ne laissez pas les dès choisir votre RP</small></h3>
+		<i>Site de partage en ligne, mon plus gros projet a ce jour</i>
+	</div>
+	<br/>
+	<div id="hexadices">
+		<img alt="Logo d'Hexadices" src="https://cdn.discordapp.com/attachments/470211802538573846/857624799361368144/Banner_-_HexaDices.svg" width="auto" height="72">
+		<br/>
+		<h3><a href="https://github.com/HexaRolls/HexaDices">HexaDices</a> - <small>Votre compagnon de table</small></h3>
+		<i>Application de bureau servant a gérer et organiser ses séances de RP, créé lors de ma formation</i>
+	</div>
+</div>
 
 ---
 
-### toujours plus de stats
+## <div id="toolbox" align="center">🔧 Les outils que j'utilise au quotidien 💻</div>
 
-![Statistiques Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Astroalex&bg_color=90,45194A,643169,8070ED&title_color=F5A491&text_color=A094FD&hide_border=true)
+<div id="toolbox-list" align="center">
+	<a title="Astro" href="https://github.com/withastro/astro"><svg role="img" fill="#FF5D01" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Astro</title><path d="M16.074 16.86c-.72.616-2.157 1.035-3.812 1.035-2.032 0-3.735-.632-4.187-1.483-.161.488-.198 1.046-.198 1.402 0 0-.106 1.75 1.111 2.968 0-.632.513-1.145 1.145-1.145 1.083 0 1.082.945 1.081 1.712v.069c0 1.164.711 2.161 1.723 2.582a2.347 2.347 0 0 1-.236-1.029c0-1.11.652-1.523 1.41-2.003.602-.383 1.272-.807 1.733-1.66a3.129 3.129 0 0 0 .378-1.494 3.14 3.14 0 0 0-.148-.954zM15.551.6c.196.244.296.572.496 1.229l4.368 14.347a18.18 18.18 0 0 0-5.222-1.768L12.35 4.8a.37.37 0 0 0-.71.002l-2.81 9.603a18.175 18.175 0 0 0-5.245 1.771L7.974 1.827c.2-.656.3-.984.497-1.227a1.613 1.613 0 0 1 .654-.484C9.415 0 9.757 0 10.443 0h3.135c.686 0 1.03 0 1.32.117A1.614 1.614 0 0 1 15.55.6z"/></svg></a>&nbsp;
+	<a title="Svelte" href="https://svelte.dev/"><svg role="img" fill="#FF3E00" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Svelte</title><path d="M10.354 21.125a4.44 4.44 0 0 1-4.765-1.767 4.109 4.109 0 0 1-.703-3.107 3.898 3.898 0 0 1 .134-.522l.105-.321.287.21a7.21 7.21 0 0 0 2.186 1.092l.208.063-.02.208a1.253 1.253 0 0 0 .226.83 1.337 1.337 0 0 0 1.435.533 1.231 1.231 0 0 0 .343-.15l5.59-3.562a1.164 1.164 0 0 0 .524-.778 1.242 1.242 0 0 0-.211-.937 1.338 1.338 0 0 0-1.435-.533 1.23 1.23 0 0 0-.343.15l-2.133 1.36a4.078 4.078 0 0 1-1.135.499 4.44 4.44 0 0 1-4.765-1.766 4.108 4.108 0 0 1-.702-3.108 3.855 3.855 0 0 1 1.742-2.582l5.589-3.563a4.072 4.072 0 0 1 1.135-.499 4.44 4.44 0 0 1 4.765 1.767 4.109 4.109 0 0 1 .703 3.107 3.943 3.943 0 0 1-.134.522l-.105.321-.286-.21a7.204 7.204 0 0 0-2.187-1.093l-.208-.063.02-.207a1.255 1.255 0 0 0-.226-.831 1.337 1.337 0 0 0-1.435-.532 1.231 1.231 0 0 0-.343.15L8.62 9.368a1.162 1.162 0 0 0-.524.778 1.24 1.24 0 0 0 .211.937 1.338 1.338 0 0 0 1.435.533 1.235 1.235 0 0 0 .344-.151l2.132-1.36a4.067 4.067 0 0 1 1.135-.498 4.44 4.44 0 0 1 4.765 1.766 4.108 4.108 0 0 1 .702 3.108 3.857 3.857 0 0 1-1.742 2.583l-5.589 3.562a4.072 4.072 0 0 1-1.135.499m10.358-17.95C18.484-.015 14.082-.96 10.9 1.068L5.31 4.63a6.412 6.412 0 0 0-2.896 4.295 6.753 6.753 0 0 0 .666 4.336 6.43 6.43 0 0 0-.96 2.396 6.833 6.833 0 0 0 1.168 5.167c2.229 3.19 6.63 4.135 9.812 2.108l5.59-3.562a6.41 6.41 0 0 0 2.896-4.295 6.756 6.756 0 0 0-.665-4.336 6.429 6.429 0 0 0 .958-2.396 6.831 6.831 0 0 0-1.167-5.168Z"/></svg></a>&nbsp;
+	<a title="Visual Studio Code" href="https://code.visualstudio.com/"><svg role="img" fill="#007ACC" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Visual Studio Code</title><path d="M23.15 2.587L18.21.21a1.494 1.494 0 0 0-1.705.29l-9.46 8.63-4.12-3.128a.999.999 0 0 0-1.276.057L.327 7.261A1 1 0 0 0 .326 8.74L3.899 12 .326 15.26a1 1 0 0 0 .001 1.479L1.65 17.94a.999.999 0 0 0 1.276.057l4.12-3.128 9.46 8.63a1.492 1.492 0 0 0 1.704.29l4.942-2.377A1.5 1.5 0 0 0 24 20.06V3.939a1.5 1.5 0 0 0-.85-1.352zm-5.146 14.861L10.826 12l7.178-5.448v10.896z"/></svg></a>&nbsp;
+	<a title="Chromium" href="https://www.chromium.org/"><svg role="img" fill="#4285F4" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Google Chrome</title><path d="M12 0C8.21 0 4.831 1.757 2.632 4.501l3.953 6.848A5.454 5.454 0 0 1 12 6.545h10.691A12 12 0 0 0 12 0zM1.931 5.47A11.943 11.943 0 0 0 0 12c0 6.012 4.42 10.991 10.189 11.864l3.953-6.847a5.45 5.45 0 0 1-6.865-2.29zm13.342 2.166a5.446 5.446 0 0 1 1.45 7.09l.002.001h-.002l-5.344 9.257c.206.01.413.016.621.016 6.627 0 12-5.373 12-12 0-1.54-.29-3.011-.818-4.364zM12 16.364a4.364 4.364 0 1 1 0-8.728 4.364 4.364 0 0 1 0 8.728Z"/></svg></a>&nbsp;
+	<a title="Directus" href="https://directus.io/"><svg role="img" fill="#263238" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Directus</title><path d="M19.187 13.909a1.74 1.74 0 0 1-.286-.092.657.657 0 0 1-.203-.139c.056-.488 0-.912.047-1.392.184-1.862 1.355-1.272 2.406-1.577.655-.184 1.31-.562 1.475-1.336a13.528 13.528 0 0 0-2.397-2.204c-2.85-2.028-6.574-2.84-9.958-2.277a5.113 5.113 0 0 0 2.238 2.074s-.917 0-1.703-.587c-.23.092-.692.274-.913.384a5.094 5.094 0 0 0 6.63.37c-.01.017-.185.285-.397 1.4-.47 2.38-1.826 2.195-3.504 1.596-3.485-1.264-5.403-.093-7.145-2.49-.507.286-.82.82-.82 1.402 0 .599.331 1.106.81 1.383.262-.348.38-.446.836-.446-.706.4-.79.75-1.094 1.718-.368 1.171-.212 2.37-1.936 2.683-.913.046-.894.664-1.226 1.586-.415 1.199-.968 1.678-2.047 2.812.443.535.904.6 1.374.406.968-.406 1.715-1.66 2.415-2.471.784-.904 2.665-.517 4.085-1.402.977-.599 1.457-1.41.811-2.784a2.72 2.72 0 0 1 .701 1.66c1.641-.213 3.836 1.788 5.836 2.12a3.574 3.574 0 0 1-.488-.82c-.23-.554-.304-1.06-.258-1.503.184 1.097 1.29 2.507 3.07 2.637.452.036.95-.019 1.466-.176.618-.184 1.19-.424 1.872-.295.507.093.977.35 1.272.784.443.645 1.41.784 1.844-.009-.977-2.554-3.67-2.72-4.813-3.015z"/></svg></a>&nbsp;
+	<a title="Electron" href="https://www.electronjs.org/"><svg role="img" fill="#47848F" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Electron</title><path d="M12.0111 0c-.85 0-1.5392.6891-1.5392 1.5392 0 .8501.6891 1.5393 1.5392 1.5393.595 0 1.11-.338 1.3662-.832 2.2208 1.2675 3.847 5.4728 3.847 10.3623 0 2.0715-.2891 4.056-.825 5.7685a.3215.3215 0 0 0 .2107.403.322.322 0 0 0 .4033-.2111c.5558-1.7763.8542-3.8251.8542-5.9604 0-5.1927-1.7717-9.686-4.3206-11.0027.001-.0223.0035-.0443.0035-.0669 0-.85-.6891-1.5392-1.5393-1.5392zm0 .6432a.896.896 0 1 1 0 1.792.896.896 0 1 1 0-1.792zm-5.486 4.3052c-2.067.0074-3.6473.6646-4.3885 1.9485-.7375 1.2774-.5267 2.971.5113 4.7813a.3217.3217 0 0 0 .558-.32C2.271 9.7274 2.089 8.266 2.6938 7.2185c.821-1.422 3.033-1.9552 5.9321-1.4271a.3216.3216 0 0 0 .1153-.6329c-.784-.1428-1.5271-.2125-2.216-.21zm11.0522.0176a.3216.3216 0 0 0-.0084.6432c1.8337.0239 3.1556.5956 3.7502 1.6256.8192 1.419.1798 3.5947-1.7182 5.837a.322.322 0 0 0 .0377.4535.3215.3215 0 0 0 .4532-.0377c2.0535-2.426 2.7708-4.8661 1.7845-6.5744-.7257-1.257-2.26-1.9207-4.299-1.9472zm-2.6984.2924a.3225.3225 0 0 0-.0647.0072c-1.8568.3979-3.8333 1.1755-5.7314 2.2714-4.5699 2.6384-7.5924 6.4948-7.3601 9.3717-.4726.2628-.7928.7664-.7928 1.3455 0 .85.6892 1.5392 1.5393 1.5392.85 0 1.5392-.6891 1.5392-1.5392 0-.8501-.6891-1.5393-1.5392-1.5393-.038 0-.0754.003-.1128.0057-.1002-2.5597 2.7434-6.1412 7.048-8.6265 1.8413-1.063 3.7551-1.8163 5.5445-2.1997a.3217.3217 0 0 0-.07-.636zm-2.8787 6.2364a1.1192 1.1192 0 0 0-.2243.0255c-.6012.1301-.983.7225-.8533 1.3238.1302.6012.7226.9832 1.3238.8533.6012-.1302.9832-.7226.8533-1.3238-.1139-.526-.5816-.8844-1.0995-.8788zM4.532 13.341a.321.321 0 0 0-.2318.0835.3214.3214 0 0 0-.0214.4542c1.2682 1.3936 2.9157 2.701 4.7946 3.7857 4.4146 2.5489 9.1056 3.2849 11.5608 1.8392a1.53 1.53 0 0 0 .8966.2899c.8501 0 1.5392-.6891 1.5392-1.5392 0-.8501-.689-1.5393-1.5392-1.5393-.85 0-1.5392.6892-1.5392 1.5393 0 .276.0737.5344.201.7584-2.2448 1.214-6.631.5002-10.7976-1.9054-1.8228-1.0524-3.418-2.3181-4.6404-3.6614a.3206.3206 0 0 0-.2226-.1049zm-2.0628 4.0172a.896.896 0 1 1 0 1.792.896.896 0 1 1 0-1.792zm19.0616 0a.896.896 0 1 1 0 1.792.891.891 0 0 1-.5864-.2194c-.0025-.004-.0039-.0083-.0066-.0123a.3195.3195 0 0 0-.0957-.0914.896.896 0 0 1 .6887-1.4689zm-14.0045 1.368a.3215.3215 0 0 0-.3207.4296C8.2793 22.154 10.036 24 12.0111 24c1.4406 0 2.7735-.9822 3.8128-2.711a.3215.3215 0 0 0-.11-.4413.3219.3219 0 0 0-.4415.11c-.934 1.5537-2.0812 2.399-3.2613 2.399-1.6407 0-3.2075-1.6465-4.2-4.4179a.3216.3216 0 0 0-.2848-.2126z"/></svg></a>&nbsp;
+	<a title="Vue.js" href="https://vuejs.org/"><svg role="img" fill="#4FC08D" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg></a>&nbsp;
+	<a title="NGINX" href="https://www.nginx.com/"><svg role="img" fill="#009639" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>NGINX</title><path d="M12 0L1.605 6v12L12 24l10.395-6V6L12 0zm6 16.59c0 .705-.646 1.29-1.529 1.29-.631 0-1.351-.255-1.801-.81l-6-7.141v6.66c0 .721-.57 1.29-1.274 1.29H7.32c-.721 0-1.29-.6-1.29-1.29V7.41c0-.705.63-1.29 1.5-1.29.646 0 1.38.255 1.83.81l5.97 7.141V7.41c0-.721.6-1.29 1.29-1.29h.075c.72 0 1.29.6 1.29 1.29v9.18H18z"/></svg></a>&nbsp;
+	<a title="Sass" href="https://sass-lang.com/"><svg role="img" fill="#CC6699" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Sass</title><path d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0zM9.615 15.998c.175.645.156 1.248-.024 1.792l-.065.18c-.024.061-.052.12-.078.176-.14.29-.326.56-.555.81-.698.759-1.672 1.047-2.09.805-.45-.262-.226-1.335.584-2.19.871-.918 2.12-1.509 2.12-1.509v-.003l.108-.061zm9.911-10.861c-.542-2.133-4.077-2.834-7.422-1.645-1.989.707-4.144 1.818-5.693 3.267C4.568 8.48 4.275 9.98 4.396 10.607c.427 2.211 3.457 3.657 4.703 4.73v.006c-.367.18-3.056 1.529-3.686 2.925-.675 1.47.105 2.521.615 2.655 1.575.436 3.195-.36 4.065-1.649.84-1.261.766-2.881.404-3.676.496-.135 1.08-.195 1.83-.104 2.101.24 2.521 1.56 2.43 2.1-.09.539-.523.854-.674.944-.15.091-.195.12-.181.181.015.09.091.09.21.075.165-.03 1.096-.45 1.141-1.471.045-1.29-1.186-2.729-3.375-2.7-.9.016-1.471.091-1.875.256-.03-.045-.061-.075-.105-.105-1.35-1.455-3.855-2.475-3.75-4.41.03-.705.285-2.564 4.8-4.814 3.705-1.846 6.661-1.335 7.171-.21.733 1.604-1.576 4.59-5.431 5.024-1.47.165-2.235-.404-2.431-.615-.209-.225-.239-.24-.314-.194-.12.06-.045.255 0 .375.12.3.585.825 1.396 1.095.704.225 2.43.359 4.5-.45 2.324-.899 4.139-3.405 3.614-5.505l.073.067z"/></svg></a>&nbsp;
+</div>
 
-![Mes languages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissdroid&layout=compact&locale=fr&bg_color=90,8070ED,643169,45194A&title_color=F5A491&text_color=A094FD&hide_border=true)
+---
+
+## <div id="stats" align="center">🔥 Mes Stats 🔥</div>
+
+<div align="center">
+	<img alt="Statistiques README-stats" src="https://github-readme-stats.vercel.app/api?username=Chrissdroid&show_icons=true&locale=fr&bg_color=0,ee9966,904e95&icon_color=000&title_color=000&text_color=5e13aa&custom_title=Mes%20stats%20github&hide_border=true">
+	<img alt="Statistiques wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Astroalex&bg_color=15,ee9966,904e95&title_color=000&text_color=5e13aa&hide_border=true">
+	<img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrissdroid&layout=compact&locale=fr&bg_color=-15,ee9966,904e95&title_color=000&text_color=5e13aa&hide_border=true">
+</div>
+
+---
+
+## <div id="jokes" align="center">Une petite blague pour la route ?</div>
+
+<div align="center">
+	<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23000&aColor=%235e13aa&bgColor=%23ee9966" alt="Jokes Card" />
+</div>
