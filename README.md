@@ -22,7 +22,8 @@
 
 <div id="projects-list" align="center">
 	<div id="hexarolls">
-		<img alt="Logo d'HexaRolls" src="https://api.hexarolls.com/assets/9986dc13-4dca-4d1b-ac03-3e630a54acae?key=avatar-resume" width="auto" heigth="72">
+		<img alt="Logo Sombre d'HexaRolls" src="https://api.hexarolls.com/assets/52d3449f-ef57-41fb-bdf5-4f643c2e2531?key=avatar-resume#gh-dark-mode-only" width="auto" heigth="72">
+		<img alt="Logo Clair d'HexaRolls" src="https://api.hexarolls.com/assets/d4b82830-762e-416b-b9cf-ab69bcaa4c13?key=avatar-resume#gh-light-mode-only" width="auto" heigth="72">
 		<br/>
 		<h4><a href="https://hexarolls.com/">HexaRolls</a> - <small>Ne laissez pas les dès choisir votre RP</small></h4>
 		<i>Site de partage en ligne, mon plus gros projet a ce jour</i>
